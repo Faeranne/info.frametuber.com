@@ -1,5 +1,8 @@
 # Basic usage
 
+Controller: https://app.frametuber.com/controller.html  
+Renderer: https://app.frametuber.com/renderer.html  
+
 FrameTuber is pretty easy to setup and use, but a few hints can help it run smoothly.
 
 First, make sure you your frames are setup to be the same size.  By ensuring they match, you reduce the chance they won't match up.
